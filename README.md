@@ -1,2 +1,2 @@
 ## About
-Rest api implementing with sqlite database.
+Rest api, with sqlite database.
